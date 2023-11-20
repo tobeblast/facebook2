@@ -75,7 +75,6 @@
 
 #body .container .check .check2 p{
     font-size: 1.5rem;
-
 } 
 
 #body .container .check .anchor a{
@@ -143,11 +142,27 @@
     }
 
     #body .container .check  .check2{
-        margin-left: 30px;      
+        margin-left: 50px;      
+    }
+
+    #body .container .check .check2 p {
+       font-size: 1rem;
+    }
+
+    #body .container .check .anchor a {
+        font-size: 1em;
     }
 
     #body .container .last-item {
       flex-direction: column;
+    }
+
+    #body .container .last-item p {
+       font-size: 1rem;
+    }
+
+    #body .container .last-item a {
+       font-size: 1em;
     }
 
 
