@@ -137,12 +137,7 @@
     }
 
     #body .container .check {
-        flex-direction: column;
         text-align: center;
-    }
-
-    #body .container .check  .check2{
-        margin-left: 50px;      
     }
 
     #body .container .check .check2 p {
